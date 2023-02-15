@@ -1,0 +1,11 @@
+spd = 15;
+xSpeed = 0;
+ySpeed = 0;
+fire_rate = 20;
+jump_force = -45;
+hit_state = false;
+hit_timer = 15;
+lifeCount = 3
+maxLife = lifeCount;
+alarm[0] = 20.22;
+alarm[1] = 5;
