@@ -7,8 +7,8 @@ The theme this time was "super hero".
 
 ## Principle of the project
 
-This games was made on the game maker game engine. Pricipe is simple beat his opponent in 1v1.
-However there is a further difficulty, it is necessary to press in ryhme to shoot and move faster.
+This games was made on the game maker game engine. The principle is simple: beat your opponent in 1v1.
+However there is a further difficulty, it is necessary to press in rhythm to shoot and move faster.
 
 ![marvindash](https://user-images.githubusercontent.com/72009611/219119676-c5c30e1c-7800-44ce-81b3-c20f88f791d5.png)
 
